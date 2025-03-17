@@ -1,0 +1,15 @@
+{
+  "name": "typescript-tut",
+  "version": "1.0.0",
+  "description": "I create this todo list for the BeginWeb online courses. It's a great project btw.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.8.2"
+  }
+}
